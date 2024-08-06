@@ -13,4 +13,4 @@ const TSLanguage *tree_sitter_test(void);
 }
 #endif
 
-#endif // TREE_SITTER_TEST_H_
+#endif  // TREE_SITTER_TEST_H_
